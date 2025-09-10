@@ -1,0 +1,16 @@
+# Ignore build artifacts
+*.o
+*.exe
+*.obj
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+
+#Ignore .env
+.env
